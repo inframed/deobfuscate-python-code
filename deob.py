@@ -1,4 +1,3 @@
-import base64
 import base64, codecs
 
 #add ur code here and remove the last line of the obfuscated code.
